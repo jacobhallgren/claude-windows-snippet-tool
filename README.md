@@ -31,9 +31,7 @@ Perfect for quickly pasting images into Claude CLI or any tool that supports pat
 
 ## 📦 Installation
 
-1. Clone the repo:
-
-git clone https://github.com/jacobhallgren/claude-snip-helper.git
+1. Clone the repo: git clone https://github.com/jacobhallgren/claude-snip-helper.git
 cd claude-snip-helper
 
 2.  Install required Python packages:
